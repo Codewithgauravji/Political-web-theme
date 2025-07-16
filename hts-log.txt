@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 14 Jul 2025 17:14:17 at https://html.ditsolution.net/leadership/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.ditsolution.net/leadership/index.html -O1 "D:\demo2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:15:35	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/single-blog.html (from https://html.ditsolution.net/leadership/index.html)
+17:15:36	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/css/owl.video.play.png (from https://html.ditsolution.net/leadership/assets/css/owl.carousel.css)
+17:15:36	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/img/slider/s4.jpg (from https://html.ditsolution.net/leadership/style.css)
+17:15:36	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/images/cn.jpg (from https://html.ditsolution.net/leadership/style.css)
+17:15:36	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/css/openhand.cur (from https://html.ditsolution.net/leadership/assets/css/rs6.css)
+17:15:36	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/css/closedhand.cur (from https://html.ditsolution.net/leadership/assets/css/rs6.css)
+17:15:36	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/assets/gridtile.png (from https://html.ditsolution.net/leadership/assets/css/rs6.css)
+17:15:36	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/assets/gridtile_white.png (from https://html.ditsolution.net/leadership/assets/css/rs6.css)
+17:15:36	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/assets/gridtile_3x3.png (from https://html.ditsolution.net/leadership/assets/css/rs6.css)
+17:15:36	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/assets/gridtile_3x3_white.png (from https://html.ditsolution.net/leadership/assets/css/rs6.css)
+17:15:36	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/assets/coloredbg.png (from https://html.ditsolution.net/leadership/assets/css/rs6.css)
+17:15:36	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/assets/loader.gif (from https://html.ditsolution.net/leadership/assets/css/rs6.css)
+17:15:37	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/single-event (from https://html.ditsolution.net/leadership/event.html)
+17:15:37	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/images/1.jpg (from https://html.ditsolution.net/leadership/event.html)
+17:15:37	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/single-portfolio.html (from https://html.ditsolution.net/leadership/event.html)
+17:15:37	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/images/4.jpg (from https://html.ditsolution.net/leadership/event.html)
+17:15:37	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/images/5.jpg (from https://html.ditsolution.net/leadership/event.html)
+17:15:37	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/assets/images/2.jpg (from https://html.ditsolution.net/leadership/event.html)
+17:15:37	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/popper.js (from https://html.ditsolution.net/leadership/assets/js/bootstrap.min.js)
+17:15:37	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/GET (from https://html.ditsolution.net/leadership/assets/js/particles.min.js)
+17:15:37	Error: 	"Not Found" (404) at link https://html.ditsolution.net/leadership/Error pJS - No image.src (from https://html.ditsolution.net/leadership/assets/js/particles.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 20 seconds : 189 links scanned, 167 files written (7400255 bytes overall) [5107336 bytes received at 63841 bytes/sec], 3195961 bytes transferred using HTTP compression in 100 files, ratio 23%, 17.1 requests per connection
+(21 errors, 0 warnings, 0 messages)
